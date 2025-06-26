@@ -1,7 +1,12 @@
 *
 !.gitignore
-!/四级
-!/六级
-!/托福
-!/雅思
+!.gitattributes
+!六级.pdf
+!四级.pdf
+!托福.pdf
+!雅思.pdf
+!四级/
+!六级/
+!托福/
+!雅思/
 !*forgit.py
